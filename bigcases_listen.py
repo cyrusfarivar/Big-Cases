@@ -44,7 +44,7 @@ from twython import Twython
 
 
 # Approved users by screen name
-APPROVED = ['bradheath', 'npenzenstadler', ]
+APPROVED = ['cfarivar', ]
 
 # Lists of outgoing messages
 NOTAPPROVED = ['Who dares disturb my slumber?', 
